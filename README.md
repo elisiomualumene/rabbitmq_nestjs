@@ -1,1 +1,1 @@
-# rabbitmq_nestjs
+# Rabbit MQ with NestJS
